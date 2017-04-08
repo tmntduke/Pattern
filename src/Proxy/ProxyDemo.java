@@ -1,10 +1,15 @@
 package Proxy;
 
 import java.lang.reflect.Proxy;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Created by tmnt on 2017/4/5.
  */
+
+
+
 public class ProxyDemo {
     public static void main(String[] args) {
 
